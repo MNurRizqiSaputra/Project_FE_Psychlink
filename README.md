@@ -29,15 +29,5 @@ npm run dev
 - ReactJS + Vite
 - TailwindCSS
 
-### Kelompok 1
+### Author
 - Muhammad Nur Rizqi Saputra
-- Andri Nugroho
-- Ahmad Fadlul Hakim
-- Retno Gumilang
-- Safira Kirei Nisa
-
-### Program
-SIB Batch 5 - Vocasia - 2023
-
-### Kelas
-Front End Developer 3
