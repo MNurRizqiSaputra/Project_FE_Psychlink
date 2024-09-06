@@ -1,8 +1,8 @@
-# Project Name
-PsychLink
+# PSYCHLINK
+PLATFORM KONSULTASI MENTAL ONLINE
 
 ## Description
-Pyschlink adalah sebuah platform online konsultasi mental inovatif berbasis website yang dibangun menggunakan ReactJS. Tujuan utama dari aplikasi ini adalah untuk memfasilitasi koneksi psikologis yang lebih dekat antara individu dan psikolog melalui konsultasi online. Aplikasi ini dirancang untuk menjadi solusi bagi mereka yang mencari bantuan profesional untuk kesehatan mental mereka tetapi merasa sulit untuk menemukan waktu atau merasa tidak nyaman untuk pergi ke klinik atau rumah sakit.
+Psychlink merupakan platform konsultasi mental berbasis website yang dirancang dengan menggunakan ReactJS sebagai Frontend untuk menghubungkan mahasiswa STT Terpadu Nurul Fikri dengan layanan konsultasi psikologis tanpa hambatan aksesibilitas. Nama "Psychlink" merupakan gabungan dari kata "Psych" yang merujuk pada psikologi dan "Link" yang mencerminkan koneksi. Platform ini muncul sebagai solusi untuk kebutuhan akan akses yang lebih mudah dan efisien ke layanan kesehatan mental di tengah meningkatnya kasus kesehatan mental di kalangan mahasiswa. Dengan Psychlink, bertujuan untuk memfasilitasi konsultasi dengan psikolog secara mandiri, mengurangi stigma, dan meningkatkan kesejahteraan mental mahasiswa secara umum.
 
 ## Installation
 - Clone this repository
@@ -13,6 +13,10 @@ npm install
 - Run the app
 ```
 npm run dev
+```
+- Run the JSON Server in a new terminal
+```
+json-server --watch db.json
 ```
 
 ## Usage
@@ -29,5 +33,5 @@ npm run dev
 - ReactJS + Vite
 - TailwindCSS
 
-### Author
-- Muhammad Nur Rizqi Saputra
+## Developer
+- Muhammad Nur Rizqi Saputra & 2024
