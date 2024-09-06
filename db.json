@@ -1,0 +1,509 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Ani Utami S.Psi, M.Psi",
+      "email": "ani@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Klinis",
+      "whatsapp": "082114016522",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_14_17404916448352493661644835249366.jpeg",
+      "id": 2
+    },
+    {
+      "username": "Budi Setiadi S.Psi, M.Psi",
+      "email": "budi@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Remaja",
+      "whatsapp": "082114506590",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_17_10382116450691012401645069101240.jpeg",
+      "id": 3,
+      "Availability": "bersedia"
+    },
+    {
+      "username": "Rizqi Saputra",
+      "email": "putra@gmail.com",
+      "password": "123",
+      "role": "pasien",
+      "id": 4
+    },
+    {
+      "username": "rizqi",
+      "email": "rizqi@gmail.com",
+      "password": "123",
+      "role": "pasien",
+      "id": 5
+    },
+    {
+      "username": "yos",
+      "email": "yoswan@gmail.com",
+      "password": "123",
+      "role": "pasien",
+      "id": 6
+    },
+    {
+      "username": "Andin Yuli, S.Psi, M.Psi",
+      "email": "andin@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Klinis",
+      "whatsapp": "081458279524",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_11_15211716469868778871646986877887.jpeg",
+      "id": 7,
+      "Availability": "bersedia"
+    },
+    {
+      "username": "Brian Joe, S.Psi, M.Psi",
+      "email": "brian@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Remaja",
+      "whatsapp": "089134782984",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_05_08_10442216835174621681683517462168.jpeg",
+      "id": 8,
+      "Availability": "bersedia"
+    },
+    {
+      "username": "Ahmad Yono, S.Psi, M.Psi",
+      "email": "yono@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Remaja",
+      "whatsapp": "081656289654",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_22_15341416455188542831645518854283.jpeg",
+      "id": 9
+    },
+    {
+      "username": "Syifa Nur, S.Psi, M.Psi",
+      "email": "syifa@gmail.com",
+      "password": "123",
+      "role": "psikolog",
+      "spesialisasi": "Psikolog Klinis",
+      "whatsapp": "0814386789",
+      "foto": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2024_04_04_1712195561.jpeg",
+      "id": 10
+    }
+  ],
+  "konsultasis": [
+    
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "psikologId": 2,
+      "tanggal": "22/07/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 0
+    },
+    {
+      "id": 5,
+      "psikologId": 2,
+      "tanggal": "05/08/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 2,
+      "psikologId": 2,
+      "tanggal": "23/07/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 3
+    },
+    {
+      "id": 4,
+      "psikologId": 2,
+      "tanggal": "30/07/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 5
+    },
+    {
+      "id": 8,
+      "psikologId": 2,
+      "tanggal": "13/08/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 3,
+      "psikologId": 2,
+      "tanggal": "29/07/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 6,
+      "psikologId": 2,
+      "tanggal": "06/08/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 7,
+      "psikologId": 2,
+      "tanggal": "12/08/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 9,
+      "psikologId": 2,
+      "tanggal": "19/08/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 10,
+      "psikologId": 2,
+      "tanggal": "20/08/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 11,
+      "psikologId": 2,
+      "tanggal": "26/08/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 12,
+      "psikologId": 2,
+      "tanggal": "27/08/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 13,
+      "psikologId": 2,
+      "tanggal": "02/09/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 15,
+      "psikologId": 2,
+      "tanggal": "09/09/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 16,
+      "psikologId": 2,
+      "tanggal": "10/09/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 14,
+      "psikologId": 2,
+      "tanggal": "03/09/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 17,
+      "psikologId": 2,
+      "tanggal": "16/09/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 19,
+      "psikologId": 2,
+      "tanggal": "23/09/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 20,
+      "psikologId": 2,
+      "tanggal": "24/09/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 21,
+      "psikologId": 2,
+      "tanggal": "30/09/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 23,
+      "psikologId": 2,
+      "tanggal": "07/10/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 22,
+      "psikologId": 2,
+      "tanggal": "01/10/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 25,
+      "psikologId": 2,
+      "tanggal": "14/10/2024",
+      "hari": "Senin",
+      "jam": "10:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 26,
+      "psikologId": 2,
+      "tanggal": "15/10/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 18,
+      "psikologId": 2,
+      "tanggal": "17/09/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 24,
+      "psikologId": 2,
+      "tanggal": "08/10/2024",
+      "hari": "Selasa",
+      "jam": "15:00",
+      "zona_waktu": "WITA",
+      "kuota": 6
+    },
+    {
+      "id": 27,
+      "psikologId": 3,
+      "tanggal": "24/07/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 28,
+      "psikologId": 3,
+      "tanggal": "31/07/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 29,
+      "psikologId": 3,
+      "tanggal": "07/08/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 30,
+      "psikologId": 3,
+      "tanggal": "14/08/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 31,
+      "psikologId": 3,
+      "tanggal": "21/08/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 33,
+      "psikologId": 3,
+      "tanggal": "04/09/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 32,
+      "psikologId": 3,
+      "tanggal": "28/08/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 36,
+      "psikologId": 3,
+      "tanggal": "25/09/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 35,
+      "psikologId": 3,
+      "tanggal": "18/09/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 37,
+      "psikologId": 3,
+      "tanggal": "02/10/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 34,
+      "psikologId": 3,
+      "tanggal": "11/09/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 39,
+      "psikologId": 3,
+      "tanggal": "16/10/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 38,
+      "psikologId": 3,
+      "tanggal": "09/10/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    },
+    {
+      "id": 40,
+      "psikologId": 3,
+      "tanggal": "23/10/2024",
+      "hari": "Rabu",
+      "jam": "15:00",
+      "zona_waktu": "WIB",
+      "kuota": 3
+    }
+  ],
+  "grups": [
+    {
+      "name": "Mental Care",
+      "description": "Grup solusi seputar mental health",
+      "platform": "whatsapp",
+      "link": "https://wa.me/6282114016528",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvrcRaSsAhAaybrDUAhsKkEaMnNcOWg9Uwl31JrywM1hFBGelkcYKeGHvGYuk4uI-8n5w&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "grup kece mamang",
+      "description": "grup paling kece",
+      "platform": "instagram",
+      "link": "https://wa.me/6282114016528",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNUhrsmrNwLJkYHx8OhcvhM0YA_gmgLa7Vw&s",
+      "id": 2
+    },
+    {
+      "name": "grup telegram 1",
+      "description": "telegram grup care",
+      "platform": "telegram",
+      "link": "www.telegram.com",
+      "imageUrl": "https://c.inilah.com/reborn/2023/08/1/0119_022602_5b57_inilah_com_bb9cfb5d5f.jpg",
+      "id": 3
+    }
+  ],
+  "Artikels": [
+    {
+      "imgLink": "https://awsimages.detik.net.id/community/media/visual/2023/10/09/hari-kesehatan-mental-sedunia-2023-1.png?w=1200",
+      "title": "Cara kelola Stres Sehari-hari",
+      "content": "Mengelola stres adalah kunci untuk menjaga kesehatan mental. Luangkan waktu untuk melakukan aktivitas yang Anda nikmati, seperti berjalan-jalan, meditasi, atau mendengarkan musik yang menenangkan.",
+      "category": "Inspirasi & Motivasi",
+      "id": 1
+    },
+    {
+      "imgLink": "https://etimg.etb2bimg.com/photo/104291281.cms",
+      "title": "Cara Meningkatkan Mood Setiap Hari",
+      "content": "Ada beberapa kebiasaan kecil yang dapat membantu meningkatkan mood sehari-hari. Misalnya, olahraga rutin, makan makanan bergizi, dan berbagi cerita positif dengan orang-orang di sekitar Anda.",
+      "category": "Self-Care",
+      "id": 2
+    },
+    {
+      "imgLink": "https://marketplace.canva.com/EAFVMoa3x7E/1/0/1600w/canva-cokelat-kuning-putih-tekstur-kertas-ilustrasi-tips-%26-trik-kesehatan-mental-instagram-post-IPDnpjOxeS4.jpg",
+      "title": "Tips Menjaga Kesehatan Mental di Era Digital",
+      "content": "Di era digital ini, menjaga kesehatan mental menjadi lebih penting. Batasi waktu screen time, tetap terhubung dengan orang-orang terdekat, dan sesekali beri diri Anda waktu untuk beristirahat tanpa gadget.",
+      "category": "Tips & Trik",
+      "id": 3
+    }
+  ]
+}
